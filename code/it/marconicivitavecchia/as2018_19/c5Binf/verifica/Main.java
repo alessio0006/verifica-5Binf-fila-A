@@ -33,7 +33,7 @@ public class Main extends JFrame {
 				sb.append("<tr> <th>  5,89,137  </th> </tr> ");
 				sb.append("<tr> <th>  Pale Blue  </th> ");
 				sb.append(" <tr> <th>  #73D1E4 </th> ");
-				sb.append(" <tr> <th>  115,209,228  </th> </tr> </div>");
+				sb.append(" <tr> <th>  115,209,228  </th> </tr> ");
 				sb.append("</table>");
 		        sb.append("</html>");        
 		// TODO Convertire lo StringBuilder in String
