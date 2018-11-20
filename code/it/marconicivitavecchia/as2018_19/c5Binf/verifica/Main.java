@@ -22,18 +22,18 @@ public class Main extends JFrame {
 		     sb.append(" <h1> Color Picker </h1>");
 		  // Create a table
 				sb.append("<table>");
-				sb.append("<div> <tr> <th> <b> Name </b> </th> </div>");
-				sb.append("<div> <tr> <th> <b> Hex </b> </th> </div>");
-				sb.append("<div> <tr> <th> <b> RGB </b> </th> </tr> </div> <br> ");
-				sb.append("<div> <tr> <th>  Persian green  </th> </div>");
-				sb.append("<div> <tr> <th>  #00A693  </th> </div>");
-				sb.append("<div> <tr> <th>  0,166,147  </th> </tr> </div> <br>");
-				sb.append("<div> <tr> <th>  Venice Blue  </th> </div>");
-				sb.append("<div> <tr> <th>  #055989  </th> </div>");
-				sb.append("<div> <tr> <th>  5,89,137  </th> </tr> </div> <br>");
-				sb.append("<div> <tr> <th>  Pale Blue  </th> </div>");
-				sb.append("<div> <tr> <th>  #73D1E4 </th> </div>");
-				sb.append("<div> <tr> <th>  115,209,228  </th> </tr> </div> <br>");
+				sb.append(" <tr> <th> <b> Name </b> </th> ");
+				sb.append(" <tr> <th> <b> Hex </b> </th> ");
+				sb.append("<tr> <th> <b> RGB </b> </th> </tr>   ");
+				sb.append(" <tr> <th>  Persian green  </th> ");
+				sb.append(" <tr> <th>  #00A693  </th> ");
+				sb.append("<tr> <th>  0,166,147  </th> </tr>  ");
+				sb.append("<tr> <th>  Venice Blue  </th> ");
+				sb.append("<tr> <th>  #055989  </th> ");
+				sb.append("<tr> <th>  5,89,137  </th> </tr> ");
+				sb.append("<tr> <th>  Pale Blue  </th> ");
+				sb.append(" <tr> <th>  #73D1E4 </th> ");
+				sb.append(" <tr> <th>  115,209,228  </th> </tr> </div>");
 				sb.append("</table>");
 		        sb.append("</html>");        
 		// TODO Convertire lo StringBuilder in String
